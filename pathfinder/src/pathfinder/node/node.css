@@ -1,0 +1,27 @@
+.node {
+  width: 25px;
+  height: 25px;
+  outline: 1px solid #e0e6ed;
+  display: inline-block;
+  background-color: white;
+}
+
+.node-finish {
+  background: #e74c3c;
+}
+
+.node-start {
+  background: #00b894;
+}
+
+.node-wall {
+  background: #2c3e50;
+}
+
+.node-visited {
+  background: #b2bec3;
+}
+
+.node-path {
+  background: #f1c40f;
+} 
